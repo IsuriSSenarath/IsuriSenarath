@@ -1,9 +1,5 @@
 # Hi I'm Isuri Senarath
 
-# 💫 About Me:
-Improving my skills in requirement analysis, documentation, and backend development.<br>Interested in collaborating on Business Analysis projects, system design, and user-focused web apps.<br>Seeking guidance on real-world Business Analysis practices and stakeholder management.<br>Learning advanced Business Analysis techniques <br>Enhancing knowledge through CIMA studies.<br>Ask me about requirement gathering, BRDs, user stories, REST APIs, React, and database design.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/isuri-senarath-a47034196) 
 
